@@ -24,18 +24,12 @@ Este projeto é uma ferramenta para automatizar consultas no site da Procuradori
 
 ## Instalação
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu_usuario/automacao_pge_mg.git
-   cd automacao_pge_mg
-   ```
-
-2. Instale as dependências:
+1. Instale as dependências:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Certifique-se de que o Chromedriver está configurado no `PATH` ou na mesma pasta do projeto.
+2. Certifique-se de que o Chromedriver está configurado no `PATH` ou na mesma pasta do projeto.
 
 ## Uso
 
